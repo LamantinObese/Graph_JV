@@ -38,8 +38,8 @@ def parse_game_data(data):
     return pd.DataFrame(games)
 
 def main():
-    # Nombre total de jeux à récupérer (ex: 100 premiers jeux)
-    TOTAL_GAMES = 250000
+    # Nombre total de jeux à récupérer
+    TOTAL_GAMES = 50000
     PAGE_SIZE = 40  # Nombre de jeux par page
     games_list = []
 

@@ -1,0 +1,657 @@
+Communauté 0 contient 444 noeuds.
+Degré moyen : 3.530855855855856
+Variance du degré : 0.34616142967291613
+-----
+Genres les plus fréquents :
+Action: 297
+Shooter: 129
+Adventure: 123
+Sports: 70
+Arcade: 57
+RPG: 52
+Racing: 36
+Simulation: 28
+Fighting: 27
+Platformer: 26
+Family: 23
+Strategy: 22
+Puzzle: 13
+Indie: 13
+Casual: 12
+Massively Multiplayer: 5
+Card: 1
+Board Games: 1
+Educational: 1
+-----
+Éditeurs les plus fréquents :
+Electronic Arts: 77
+Activision: 44
+Take-Two Interactive: 36
+Ubisoft: 33
+Sega: 29
+Capcom: 23
+Warner Bros. Interactive Entertainment: 22
+Codemasters: 18
+THQ: 15
+Square Enix: 14
+Konami Digital Entertainment: 12
+Deep Silver: 12
+Bethesda Softworks: 11
+Microsoft Game Studios: 9
+Namco Bandai Games: 9
+Eidos Interactive: 8
+Atari: 7
+Disney Interactive Studios: 6
+505 Games: 5
+Tecmo Koei: 5
+LucasArts: 4
+Unknown: 4
+Sony Computer Entertainment: 3
+Nordic Games: 3
+City Interactive: 3
+Focus Home Interactive: 3
+Vivendi Games: 3
+D3Publisher: 2
+Milestone S.r.l.: 2
+Valve Software: 1
+Hello Games: 1
+Microids: 1
+Koch Media: 1
+Kalypso Media: 1
+Mastertronic: 1
+Trion Worlds: 1
+Slightly Mad Studios: 1
+Telltale Games: 1
+SouthPeak Games: 1
+Sony Online Entertainment: 1
+Midway Games: 1
+Little Orbit: 1
+Nintendo: 1
+bitComposer Games: 1
+SquareSoft: 1
+Gamebridge: 1
+DTP Entertainment: 1
+MTV Games: 1
+Ignition Entertainment: 1
+Destineer: 1
+Tru Blu Entertainment: 1
+-----
+Années de parution les plus fréquentes :
+2010.0: 55
+2011.0: 54
+2009.0: 49
+2013.0: 42
+2012.0: 42
+2014.0: 42
+2008.0: 40
+2007.0: 39
+2015.0: 25
+2006.0: 15
+2016.0: 11
+2004.0: 5
+2002.0: 4
+2005.0: 4
+1998.0: 3
+2001.0: 3
+1992.0: 3
+2003.0: 2
+2000.0: 1
+1982.0: 1
+1999.0: 1
+1993.0: 1
+1995.0: 1
+1994.0: 1
+-----
+Répartition des ventes :
+1M-10M: 291
+100k-1M: 111
+>10M: 29
+<100k: 13
+-----
+Plateformes les plus fréquentes :
+Xbox 360: 411
+PlayStation 3: 386
+PC: 368
+Xbox One: 199
+PlayStation 4: 124
+Wii: 83
+macOS: 68
+PlayStation 2: 65
+iOS: 52
+Nintendo DS: 52
+Nintendo Switch: 44
+PSP: 42
+Android: 41
+Nintendo 3DS: 35
+Wii U: 34
+Linux: 28
+PS Vita: 26
+Xbox: 14
+GameCube: 13
+Game Boy Advance: 6
+PlayStation 5: 5
+Xbox Series S/X: 4
+Dreamcast: 3
+Classic Macintosh: 3
+Game Gear: 3
+PlayStation: 2
+Game Boy Color: 2
+3DO: 2
+Jaguar: 2
+Genesis: 2
+Commodore / Amiga: 2
+NES: 2
+Web: 1
+SNES: 1
+SEGA Saturn: 1
+SEGA 32X: 1
+Atari 5200: 1
+Game Boy: 1
+Atari 8-bit: 1
+Atari 2600: 1
+Neo Geo: 1
+Apple II: 1
+Nintendo DSi: 1
+SEGA CD: 1
+-----
+-----
+Communauté 2 contient 451 noeuds.
+Degré moyen : 4.209157427937916
+Variance du degré : 0.03865161823196544
+-----
+Genres les plus fréquents :
+Action: 236
+Adventure: 123
+RPG: 111
+Shooter: 75
+Platformer: 58
+Strategy: 43
+Racing: 36
+Arcade: 32
+Simulation: 22
+Sports: 21
+Fighting: 18
+Puzzle: 15
+Indie: 13
+Family: 9
+Casual: 8
+Massively Multiplayer: 6
+Educational: 2
+Board Games: 1
+-----
+Éditeurs les plus fréquents :
+Nintendo: 102
+Sony Computer Entertainment: 62
+Microsoft Game Studios: 28
+Electronic Arts: 26
+Activision: 24
+Konami Digital Entertainment: 20
+Ubisoft: 18
+Take-Two Interactive: 16
+Sega: 16
+Capcom: 15
+Namco Bandai Games: 13
+Square Enix: 12
+SquareSoft: 10
+THQ: 6
+Eidos Interactive: 6
+Atari: 6
+Vivendi Games: 5
+Atlus: 5
+Sony Computer Entertainment Europe: 4
+Virgin Interactive: 4
+Rising Star Games: 4
+Paradox Interactive: 3
+505 Games: 2
+GT Interactive: 2
+Nippon Ichi Software: 2
+PQube: 2
+Acclaim Entertainment: 2
+Infogrames: 2
+Midway Games: 2
+Bethesda Softworks: 1
+Warner Bros. Interactive Entertainment: 1
+Majesco Entertainment: 1
+Telltale Games: 1
+Deep Silver: 1
+Number None: 1
+Devolver Digital: 1
+Focus Home Interactive: 1
+Daedalic: 1
+2D Boy: 1
+PopCap Games: 1
+1C Company: 1
+Yacht Club Games: 1
+Havas Interactive: 1
+Unknown: 1
+Empire Interactive: 1
+Interplay: 1
+MTV Games: 1
+Nihon Falcom Corporation: 1
+Prototype: 1
+Gathering of Developers: 1
+Falcom Corporation: 1
+Red Storm Entertainment: 1
+Tecmo Koei: 1
+RedOctane: 1
+ESP: 1
+Enix Corporation: 1
+Quest: 1
+Codemasters: 1
+Ghostlight: 1
+PopTop Software: 1
+Titus: 1
+-----
+Années de parution les plus fréquentes :
+2005.0: 40
+2001.0: 32
+2004.0: 29
+2009.0: 28
+2002.0: 27
+2003.0: 26
+2006.0: 25
+1999.0: 25
+2011.0: 23
+2007.0: 22
+2010.0: 20
+2015.0: 19
+2008.0: 19
+1998.0: 18
+2000.0: 18
+2016.0: 14
+2012.0: 14
+1997.0: 12
+2014.0: 12
+2013.0: 12
+1996.0: 7
+1995.0: 4
+1990.0: 2
+1991.0: 1
+1993.0: 1
+1994.0: 1
+-----
+Répartition des ventes :
+1M-10M: 270
+100k-1M: 131
+<100k: 28
+>10M: 22
+-----
+Plateformes les plus fréquentes :
+PC: 168
+PlayStation 2: 93
+PlayStation 3: 88
+PlayStation 4: 73
+Xbox One: 68
+Xbox 360: 63
+PlayStation: 59
+Xbox: 57
+macOS: 56
+Nintendo Switch: 51
+Wii: 46
+GameCube: 44
+iOS: 43
+Game Boy Advance: 38
+Android: 36
+PS Vita: 33
+Wii U: 32
+Nintendo DS: 30
+PSP: 29
+Linux: 28
+Nintendo 3DS: 27
+Nintendo 64: 22
+Dreamcast: 16
+Classic Macintosh: 16
+PlayStation 5: 12
+SEGA Saturn: 11
+SNES: 9
+Game Boy Color: 5
+Xbox Series S/X: 4
+Commodore / Amiga: 3
+Genesis: 2
+Game Gear: 1
+NES: 1
+Game Boy: 1
+SEGA 32X: 1
+Jaguar: 1
+SEGA CD: 1
+Atari ST: 1
+-----
+-----
+Communauté 1 contient 520 noeuds.
+Degré moyen : 3.257615384615385
+Variance du degré : 1.1539562366863905
+-----
+Genres les plus fréquents :
+Action: 284
+RPG: 134
+Adventure: 121
+Strategy: 101
+Shooter: 63
+Simulation: 58
+Platformer: 43
+Arcade: 41
+Racing: 32
+Fighting: 28
+Casual: 27
+Indie: 25
+Puzzle: 22
+Sports: 20
+Family: 12
+Massively Multiplayer: 8
+Board Games: 4
+Educational: 1
+Card: 1
+-----
+Éditeurs les plus fréquents :
+Sony Computer Entertainment: 35
+Ubisoft: 34
+Capcom: 27
+Nintendo: 22
+THQ: 20
+Sega: 19
+Atari: 19
+Namco Bandai Games: 18
+Microsoft Game Studios: 17
+Electronic Arts: 16
+Tecmo Koei: 16
+Eidos Interactive: 14
+Nippon Ichi Software: 14
+Square Enix: 13
+Konami Digital Entertainment: 13
+Kalypso Media: 12
+Paradox Interactive: 11
+Activision: 10
+505 Games: 9
+Take-Two Interactive: 8
+Atlus: 8
+Deep Silver: 7
+Vivendi Games: 6
+Codemasters: 6
+DTP Entertainment: 6
+Focus Home Interactive: 6
+Unknown: 5
+Empire Interactive: 5
+Midway Games: 5
+Rising Star Games: 5
+Acclaim Entertainment: 4
+D3Publisher: 4
+JoWood Productions: 3
+Daedalic Entertainment: 3
+Rondomedia: 3
+PQube: 3
+Nihon Falcom Corporation: 3
+LucasArts: 3
+Infogrames: 3
+Bethesda Softworks: 2
+Iceberg Interactive: 2
+1C Company: 2
+Microids: 2
+Interplay: 2
+PopCap Games: 2
+Warner Bros. Interactive Entertainment: 2
+Gathering of Developers: 2
+SouthPeak Games: 2
+Crimson Cow: 2
+Ascaron Entertainment GmbH: 2
+Ignition Entertainment: 2
+Marvelous Interactive: 2
+SNK: 2
+SCS Software: 1
+Introversion Software: 1
+Daedalic: 1
+Swing! Entertainment: 1
+Wargaming.net: 1
+CCP: 1
+Rain Games: 1
+Rebellion Developments: 1
+Team17 Software: 1
+Mindscape: 1
+Mamba Games: 1
+Aksys Games: 1
+NCSoft: 1
+Rage Software: 1
+Stainless Games: 1
+Headup Games: 1
+HMH Interactive: 1
+MC2 Entertainment: 1
+Insomniac Games: 1
+Majesco Entertainment: 1
+Falcom Corporation: 1
+Sony Computer Entertainment Europe: 1
+Funbox Media: 1
+Destineer: 1
+Strategy First: 1
+Koch Media: 1
+Sunflowers: 1
+The Adventure Company: 1
+5pb: 1
+DreamCatcher Interactive: 1
+Milestone S.r.l: 1
+Funsta: 1
+Playlogic Game Factory: 1
+SCi: 1
+Nordic Games: 1
+Screenlife: 1
+Ghostlight: 1
+Phantom EFX: 1
+Agatsuma Entertainment: 1
+Adeline Software: 1
+Indie Games: 1
+GungHo: 1
+Marvelous Entertainment: 1
+Hip Interactive: 1
+Xseed Games: 1
+Global Star: 1
+Tomy Corporation: 1
+Human Entertainment: 1
+Gust: 1
+TDK Mediactive: 1
+Banpresto: 1
+Metro 3D: 1
+NewKidCo: 1
+LSP Games: 1
+Universal Interactive: 1
+Idea Factory: 1
+Ubisoft Annecy: 1
+-----
+Années de parution les plus fréquentes :
+2006.0: 50
+2008.0: 42
+2005.0: 41
+2009.0: 38
+2003.0: 36
+2004.0: 34
+2011.0: 34
+2015.0: 29
+2007.0: 29
+2010.0: 28
+2001.0: 27
+2016.0: 26
+2013.0: 25
+2002.0: 19
+2014.0: 18
+2012.0: 14
+2000.0: 13
+1999.0: 6
+1997.0: 3
+1998.0: 2
+1996.0: 2
+1995.0: 1
+1985.0: 1
+1982.0: 1
+1992.0: 1
+-----
+Répartition des ventes :
+100k-1M: 353
+<100k: 155
+1M-10M: 9
+>10M: 3
+-----
+Plateformes les plus fréquentes :
+PC: 277
+PlayStation 2: 112
+PlayStation 4: 75
+macOS: 68
+Xbox 360: 59
+PlayStation 3: 54
+Xbox One: 46
+Xbox: 44
+Linux: 42
+PSP: 42
+PS Vita: 39
+Game Boy Advance: 39
+Nintendo DS: 34
+iOS: 31
+Wii: 31
+PlayStation: 29
+Nintendo Switch: 25
+Android: 22
+GameCube: 22
+Nintendo 3DS: 17
+Wii U: 13
+Dreamcast: 11
+Classic Macintosh: 7
+Nintendo 64: 5
+SNES: 5
+Game Boy Color: 5
+Game Boy: 3
+Genesis: 3
+SEGA Saturn: 3
+Xbox Series S/X: 2
+Game Gear: 2
+SEGA Master System: 2
+SEGA CD: 2
+Commodore / Amiga: 2
+PlayStation 5: 2
+Neo Geo: 2
+Nintendo DSi: 1
+Apple II: 1
+Atari ST: 1
+Atari Lynx: 1
+NES: 1
+SEGA 32X: 1
+-----
+-----
+Communauté 3 contient 167 noeuds.
+Degré moyen : 3.556287425149701
+Variance du degré : 0.40171675571013665
+-----
+Genres les plus fréquents :
+Action: 91
+Adventure: 37
+Shooter: 32
+Arcade: 29
+Platformer: 23
+Racing: 15
+RPG: 14
+Fighting: 11
+Board Games: 10
+Casual: 9
+Sports: 8
+Simulation: 8
+Strategy: 7
+Puzzle: 4
+Family: 3
+Indie: 2
+Massively Multiplayer: 1
+Educational: 1
+-----
+Éditeurs les plus fréquents :
+Nintendo: 26
+Electronic Arts: 21
+Sony Computer Entertainment: 17
+Activision: 17
+Ubisoft: 16
+THQ: 13
+Sega: 9
+Atari: 6
+Square Enix: 5
+Take-Two Interactive: 4
+Midway Games: 4
+Microsoft Game Studios: 3
+Vivendi Games: 3
+Sony Computer Entertainment Europe: 2
+Namco Bandai Games: 2
+Acclaim Entertainment: 2
+Capcom: 2
+Konami Digital Entertainment: 2
+Eidos Interactive: 1
+Universal Interactive: 1
+NovaLogic: 1
+Virgin Interactive: 1
+Nippon Ichi Software: 1
+Black Label Games: 1
+505 Games: 1
+Maxis: 1
+Infogrames: 1
+Tecmo Koei: 1
+Rebellion: 1
+Warner Bros. Interactive Entertainment: 1
+TalonSoft: 1
+-----
+Années de parution les plus fréquentes :
+2005.0: 23
+2003.0: 17
+2002.0: 16
+2004.0: 16
+2006.0: 13
+2007.0: 12
+2009.0: 11
+2013.0: 10
+2008.0: 8
+2001.0: 7
+2011.0: 5
+2000.0: 5
+2010.0: 5
+2015.0: 4
+2012.0: 4
+2014.0: 3
+1995.0: 2
+1994.0: 2
+1988.0: 2
+1986.0: 1
+1998.0: 1
+-----
+Répartition des ventes :
+1M-10M: 140
+100k-1M: 24
+>10M: 3
+<100k: 0
+-----
+Plateformes les plus fréquentes :
+PlayStation 2: 83
+Xbox: 59
+GameCube: 53
+PC: 52
+Wii: 32
+Game Boy Advance: 24
+Nintendo DS: 23
+PlayStation 3: 20
+PSP: 19
+PlayStation 4: 14
+Nintendo 3DS: 9
+Classic Macintosh: 8
+PlayStation: 8
+macOS: 7
+Xbox 360: 7
+Wii U: 7
+Xbox One: 5
+PS Vita: 5
+Nintendo Switch: 3
+Game Boy: 2
+Commodore / Amiga: 2
+SEGA Saturn: 2
+iOS: 2
+NES: 2
+Nintendo 64: 2
+SNES: 2
+Jaguar: 1
+3DO: 1
+SEGA CD: 1
+Linux: 1
+PlayStation 5: 1
+Xbox Series S/X: 1
+Atari ST: 1
+Android: 1
+-----
+-----

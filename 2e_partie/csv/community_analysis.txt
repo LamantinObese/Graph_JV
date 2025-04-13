@@ -1,0 +1,16 @@
+Communauté 0 contient 444 noeuds.
+Degré moyen : 1152.644144144144
+Variance du degré : 16951.594087330574
+-----
+Communauté 2 contient 451 noeuds.
+Degré moyen : 1037.270509977827
+Variance du degré : 47092.751658054774
+-----
+Communauté 1 contient 520 noeuds.
+Degré moyen : 1117.873076923077
+Variance du degré : 30124.926198224854
+-----
+Communauté 3 contient 167 noeuds.
+Degré moyen : 958.377245508982
+Variance du degré : 31427.45648822117
+-----
